@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the IMDB Clone feature.
+ */
+
+include_once 'imdb_clone.features.inc';
