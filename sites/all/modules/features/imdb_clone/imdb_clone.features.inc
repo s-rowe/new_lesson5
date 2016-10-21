@@ -29,7 +29,7 @@ function imdb_clone_node_info() {
     'person' => array(
       'name' => t('Person'),
       'base' => 'node_content',
-      'description' => '',
+      'description' => t('Use this to add a new person that can be used with the Movie content type.'),
       'has_title' => '1',
       'title_label' => t('Last name'),
       'help' => '',
